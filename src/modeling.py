@@ -69,3 +69,9 @@ def run_shap_analysis(model, X_test, model_name):
     except Exception as e:
         print(f"SHAP Analysis skipped for {model_name}: {e}")
         return None
+
+
+def load_model(name="XGBoost"):
+    """Load trained model from disk."""
+    path = MODELS_DIR / f"{name}_model.joblib"
+    return joblib.load(path)
