@@ -14,7 +14,7 @@ venv/
 data/raw/
 data/processed/
 
-# VS Code
+# VS Cod
 .vscode/
 
 # OS
