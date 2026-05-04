@@ -2,9 +2,6 @@
 
 🎓 **Master Thesis Project — Mining Engineering**
 
-**Author:** Saurabh Kumar (21MI33020)  
-**Supervisor:** Prof. Debasish Chakraborty  
-**Department:** Mining Engineering, IIT Kharagpur
 
 ---
 
@@ -379,23 +376,6 @@ streamlit run app.py
 | SHAP plots not displaying     | Update matplotlib: `pip install --upgrade matplotlib`                           |
 
 ---
-
-## 📚 Citation
-
-If using this project, please cite:
-
-```
-S. Kumar, "Machine Learning-Based Quality Prediction of Iron Ore Concentrate,"
-Dept. of Mining Engineering, IIT Kharagpur, 2025.
-```
-
----
-
-## 👨‍🏫 Author & Contact
-
-**Saurabh Kumar**  
-Department of Mining Engineering, IIT Kharagpur  
-📧 sraj31962@gmail.com
 
 ---
 
