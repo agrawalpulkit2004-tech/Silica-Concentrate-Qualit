@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import numpy as np
 
-df = pd.read_csv("reports/results/predictions_vs_actual.csv")   # adjust path if needed
+df = pd.read_csv("reports/results/predictions_vs_actual.csv")
 y_true = df["Actual"]
 y_pred = df["Predicted"]
 
