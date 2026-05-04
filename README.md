@@ -215,7 +215,7 @@ iron-ore-quality-mtp/
 ### 📌 Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/iron-ore-quality-mtp.git
+git clone https://github.com/agrawalpulkit2004-tech/Silica-Concentrate-Qualit.git
 cd iron-ore-quality-mtp
 ```
 
