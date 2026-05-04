@@ -9,7 +9,7 @@ from src.config import RESULTS_DIR, FIGURES_DIR
 def evaluate_from_csv():
     """
     Use existing predictions_vs_actual.csv to compute metrics.
-    No model file is required.
+    No model file is required
     """
     pred_file = RESULTS_DIR / "predictions_vs_actual.csv"
 
