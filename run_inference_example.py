@@ -10,6 +10,6 @@ example_input = {
     "hour": 3,
     "dayofweek": 2
 }
-
+#commit
 prediction = predict_one(example_input)
 print(f"Predicted % Silica Concentrate: {prediction:.4f}")
