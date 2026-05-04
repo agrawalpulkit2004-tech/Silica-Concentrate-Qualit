@@ -7,7 +7,7 @@ from src.preprocessing import build_feature_matrix
 from src.config import MODELS_DIR
 
 
-# ---------- CACHED HELPERS ----------
+# ---------- CACHED HELPERS ---------
 
 @st.cache_data
 def get_feature_stats():
